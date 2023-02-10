@@ -1,0 +1,52 @@
+.mainDiv{
+    display: flex;
+    margin: 3rem;
+    background: #eceeef;
+    padding: 2rem;
+}
+.cart_item_Section{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cart_item{
+    width: 100%;
+    background: #fff;
+}
+.showItem{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    margin: 20px 0px;
+    
+}
+
+
+.section_div {
+    width: 30%;
+    font-size: 25px;
+    margin-left: 35px;
+}
+.summary_header{
+    color: #847e9d;
+}
+.itemCountDiv {
+    margin-top: 12px;
+    color: #665f83;
+}
+.itemCountDiv span{
+    margin: 3px;
+}
+.productAmountDiv, #totalAmountDiv {
+    margin: 5px 0px;
+    display: flex;
+    align-items: center;
+    color: #665f83;
+    justify-content: space-between;
+}
+.continue_btn{
+    margin-top: 40px;
+}

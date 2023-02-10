@@ -1,0 +1,29 @@
+.card_item_div{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    background-color: #c6d1d7;;
+}
+.categoriesContainer{
+    width: 100%;
+    height: 300px;
+    background: #929fba;
+    display: flex;
+    padding: 0 70px;
+    align-items: center;
+    justify-content: space-around;
+}
+.categoriesDiv{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c6d1d7;
+    color: #fff;
+    cursor: pointer;
+    font-size: 22px;
+    border-radius: 100px;
+}

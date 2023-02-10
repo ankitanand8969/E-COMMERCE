@@ -1,0 +1,17 @@
+.signInContainer{
+    display: flex;
+    height: 90vh !important;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.formDiv{
+    width: 60%;
+    background: #d9d4d9;
+    border-radius:5px ;
+}
+.btn{
+    background: #847e9d;
+    border: none;
+    color: #ffff;
+}
